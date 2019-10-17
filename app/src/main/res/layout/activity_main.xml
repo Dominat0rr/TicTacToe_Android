@@ -17,7 +17,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Player 1: 0"
-            android:textSize="30sp">
+            android:textSize="30sp"
+            android:freezesText="true">
         </TextView>
 
         <TextView
@@ -26,7 +27,8 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/textViewPlayer1"
             android:text="Player 2: 0"
-            android:textSize="30sp">
+            android:textSize="30sp"
+            android:freezesText="true">
         </TextView>
 
         <Button
@@ -50,7 +52,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -58,7 +61,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -66,7 +70,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
     </LinearLayout>
 
@@ -80,7 +85,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -88,7 +94,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -96,7 +103,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
     </LinearLayout>
 
@@ -110,7 +118,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -118,7 +127,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
 
         <Button
@@ -126,7 +136,8 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:textSize="60sp">
+            android:textSize="60sp"
+            android:freezesText="true">
         </Button>
     </LinearLayout>
 
